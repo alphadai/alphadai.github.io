@@ -38,7 +38,6 @@ Graphic
 #### Vulkan
 
 * [Acid](https://github.com/alphafork/Acid) - Acid is an open-source, cross-platform game engine written in modern C++17 and structured to be fast, simple, and extremely modular.
-* [Vulkan Cookbook](https://github.com/alphafork/Vulkan-Cookbook) - This is the code repository for Vulkan Cookbook
 * [awesome-vulkan](https://github.com/alphafork/awesome-vulkan) - A curated list of awesome Vulkan libraries, debuggers and resources
 * [Vulkan Samples](https://github.com/khronosGroup/Vulkan-samples) - The Vulkan Samples is collection of resources to help you develop optimized Vulkan applications
 *  [VulkanCapsViewer](https://github.com/alphafork/VulkanCapsViewer) - Client application to display hardware implementation details for GPUs supporting the new Vulkan(tm) API by Khronos.
