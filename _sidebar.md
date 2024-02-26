@@ -3,14 +3,14 @@
 
 - Programming 
   
-  - [Library](Programming/)
+  - [Library](md/programmingskill.md)
 
 - Awesome Code
   
-  - [Awesome code](awesomecode.md "The awesome open source code")
+  - [Awesome code](/md/awesomecode.md "The awesome open source code")
 
 - Tools
 
-  - [Game-Development-magictools](GameDevelopmentMaticTools.md)
+  - [Game-Development-magictools](md/gamedevelopmatictools.md)
 
   
