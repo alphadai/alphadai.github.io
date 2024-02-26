@@ -1,7 +1,7 @@
 
 - Programming 
   
-  - [Library](md/programmingskill.md)
+  - [Programming skill](md/programmingskill.md)
 
 - Awesome Code
   
