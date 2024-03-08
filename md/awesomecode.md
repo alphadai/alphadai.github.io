@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+  - [AGI](#AGI)
+    - [LLM](#LLM)
   - [Graphic](#Graphic)
     - [Vulkan](#Vulkan)
     - [Game Shader](#Game-Shader)
@@ -30,6 +32,15 @@
       - [reference](#reference)
 
 ---
+
+## AGI
+--------
+
+#### LLM
+* [OpenLLaMA](https://github.com/openlm-research/open_llama) - An open source reproduction of Meta’s LLaMA model, developed by Berkeley AI Research, this project provides permissively licensed models with 3B, 7B, and 13B parameters, and is trained on one trillion tokens
+* [Falcon-Series](https://github.com/huggingface/blog/blob/main/falcon.md#the-falcon-models) - Falcon-Series consists of two models: Falcon-40B and Falcon-7B. The series has a unique training data pipeline that extracts content with deduplication and filtering from web data
+* [MPT-Series](https://github.com/mosaicml/llm-foundry) - A set of decoder-only large language models, MPT-Series models have been trained on one trillion tokens spanning code, natural language text, and scientific text. Developed by MosaicML
+* [FastChat-T5:](https://huggingface.co/lmsys/fastchat-t5-3b-v1.0) - A large transformer model with three billion parameters, FastChat-T5 is a chatbot model developed by the FastChat team through fine-tuning the Flan-T5-XL model. Trained on 70,000 user-shared conversations, it generates responses to user inputs autoregressively and is primarily for commercial applications. It’s a strong fit for applications that need language understanding, like virtual assistants, customer support systems, and interactive platforms. 
 
 ## Graphic
 -------- 
