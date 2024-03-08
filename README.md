@@ -1,6 +1,9 @@
 
 # category 
 
+## Home
+- [Home](/README.md)
+
 ## Programming
 - [programming skill](md/programmingskill.md)
 
