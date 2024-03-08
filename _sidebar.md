@@ -1,14 +1,13 @@
 
-- Programming 
-  
-  - [Programming skill](md/programmingskill.md)
+- [Home](/)
 
-- Awesome Code
-  
-  - [Awesome code](/md/awesomecode.md "The awesome open source code")
+  - Programming 
+   - [Programming skill](md/programmingskill.md)
 
-- Tools
+  - Awesome Code
+   - [Awesome code](/md/awesomecode.md "The awesome open source code")
 
-  - [Game-Development-magictools](md/gamedevelopmatictools.md)
+  - Tools
+   - [Game-Development-magictools](md/gamedevelopmatictools.md)
 
   
